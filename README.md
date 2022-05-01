@@ -1,5 +1,5 @@
 # MuBAF
-## Multi-Head Bi-Directional Attention FLow For Machine Comprehension
+## Multi-Head Bi-Directional Attention Flow For Machine Comprehension
 
 
 ### Set Up
