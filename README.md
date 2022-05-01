@@ -13,8 +13,8 @@ https://1drv.ms/u/s!AvQ-h7H-fCyHhnqf-Tjgp5A5d1iA?e=gvcZys
 ```shell
 pip install -r requirements.txt
 ```
-If download link doesn't work run shell script.
-Note main.py won't run without downloading the pickle files from the OneDrive link.
+If download link doesn't work run shell script. <br>
+Note main.py won't run without downloading the pickle files from the OneDrive link. <br>
 3. Run Shell Script
 ```shell
 sh download.sh
