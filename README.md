@@ -25,6 +25,6 @@ python main.py
 ```
 
 ### Machine Comprehension Question Answering System
-![Results](GeneralArchitecture.drawio.png)
+![Results](Files/GeneralArchitecture.drawio.png)
 ### Model Architecture
 ![Results](Files/Diagram.png)
