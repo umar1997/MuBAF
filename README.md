@@ -19,7 +19,7 @@ Note main.py won't run without downloading the pickle files from the OneDrive li
 ```shell
 sh download.sh
 ```
-3. Run Model
+4. Run Model
 ```shell
 python main.py
 ```
